@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Bank Cards local"
+  contactDetails:
+    name: "Fouad Adel"
+    email: "fouadadel905@gmail.com"
+  phone:
+    - 01060374609
+    - 01551473409
+

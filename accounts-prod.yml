@@ -1,0 +1,14 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to Bank Accounts prod"
+  contactDetails:
+    name: "Fouad Adel"
+    email: "fouadadel905@gmail.com"
+  phone:
+    -01060374609
+    -01551473409
+
+
+

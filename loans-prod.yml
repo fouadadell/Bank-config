@@ -1,0 +1,14 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "welcome to Bank Loans prod"
+  contactDetails:
+    name: "Fouad Adel"
+    email: "fouadadel905@gmail.com"
+  phone:
+    -01060374609
+    -01551473409
+
+
+

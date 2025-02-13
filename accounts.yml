@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank accounts local"
+  contactDetails:
+    name: "Fouad Adel"
+    email: "fouadadel905@gmail.com"
+  phone:
+    - 01060374609
+    - 01551473409
+

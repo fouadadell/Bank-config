@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "welcome to Bank Loans local"
+  contactDetails:
+    name: "Fouad Adel"
+    email: "fouadadel905@gmail.com"
+  phone:
+    -01060374609
+    -01551473409
