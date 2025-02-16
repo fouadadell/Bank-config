@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to Bank Accounts prod"
+  message: "welcome to Bank Accounts production"
   contactDetails:
     name: "Fouad Adel Fouad"
     email: "{cipher}09113847e1676eb3be5ee1def06d3366f9cc62096ce33a212610286bcf353ba9267cd6d0e3ea61f965e83d15bce91be9"
